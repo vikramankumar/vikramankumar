@@ -1,5 +1,5 @@
  Hi, I’m Vikraman Kumar
- theme: minima
+ theme: Minima
  A Multi Disciplined Manager of Technical Support Teams providing WOW level Service to our Clients and Users with my rich 13+ years industry experience and accumulated learnings.
  MBA Finance Graduate,tech-savvy and Proficient in various Support tools and technologies like ORACLE SQL,UNIX,WTX,ITX,T-SQL,MQ,SWIFT and a certified Professional on Scrum-PSPO and ITIL process.
   
